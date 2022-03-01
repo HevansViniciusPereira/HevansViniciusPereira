@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **HevansViniciusPereira/HevansViniciusPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,37 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning data science, machine learning and artificial inteligence.
 -->
+
+I'm a mathematician, with interest on Mathematics, Statistics, Data Science, Machine Learning, and AI.
+
+Hard skills: Python, R, Mathematics, Statistics, Data Visualization, Data Cleaning, Time Series Forecasting, Machine Learning and AI.
+
+Soft skills: Intellectual curiosity, Storytelling, Critical thinking, Communication and Teamwork.
+
+Data Science Projects:
+
+* <a href="https://github.com/HevansViniciusPereira/Sirius_Classificacao_de_celulas">Cell Classification</a> (in portuguese)
+
+
+
+
+![Hevans GitHub stats](https://github-readme-stats.vercel.app/api?username=HevansViniciusPereira&show_icons=true&theme=radical)
+
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="100" height="100"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <a href"https://www.linkedin.com/in/hevans-vinicius-pereira-1849b21a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/user/Hevansv" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
+  <a href="https://medium.com/@hevansviniciuspereira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/></a>
+  <a href="hevansv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ </div>
