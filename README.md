@@ -17,6 +17,7 @@ Soft skills: Intellectual curiosity, Storytelling, Critical thinking, Communicat
 
 Data Science Projects:
 
+* <a href="https://github.com/HevansViniciusPereira/Mestrado_Bioestatistica/tree/main">Mestrado em Bioestatística</a> (in portuguese)
 * <a href="https://github.com/HevansViniciusPereira/Monte-Carlo-Simulation">Simulação de Monte Carlo</a> (in portuguese)
 * <a href="https://github.com/HevansViniciusPereira/AnaliseMultivariada">Análise Multivariada</a> (in portuguese)
 * <a href="https://github.com/HevansViniciusPereira/Churn">Churn</a> (in portuguese)
